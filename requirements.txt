@@ -1,0 +1,7 @@
+librosa
+soundfile
+numpy==1.19.3
+sklearn
+pyaudio
+notebook
+matplotlib
