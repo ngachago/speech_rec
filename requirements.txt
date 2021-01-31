@@ -5,3 +5,4 @@ sklearn
 pyaudio
 notebook
 matplotlib
+tensorflow
